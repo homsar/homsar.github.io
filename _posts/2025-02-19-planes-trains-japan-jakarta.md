@@ -122,7 +122,7 @@ In darker red are the next 47.
 Two blue lines show the current 500km/h capable maglev lines:
 the Chūō Shinkansen under construction,
 and a short connection to Shanghai Airport.
-In dashed darkgreen are any high-speed lines,
+In dashed dark green are any high-speed lines,
 either operational or with a reasonable chance of being constructed soon,
 and in paler green are
 planned high-speed rail routes that seem less likely to actually be finished.
@@ -143,14 +143,14 @@ who don't want to navigate across a foreign city that isn't their destination,
 just to access the HSR station.
 (Having made this rail connection in Seoul travelling to Busan,
 I can empathise with this;
-it definitely made the travel tricker!)
+it definitely made the travel trickier!)
 From Narita,
 then we head north to Sendai,
 but then head over to take the north west coast,
 currently only served by mini-Shinkansen,
 before crossing paths with the current Shinkansen in Aomori.
 From there,
-take a new route via Hakodata to Sapporo,
+take a new route via Hakodate to Sapporo,
 to be slightly more direct,
 and avoid putting all eggs in one Seikan Tunnel-shaped basket.
 (It will also provide valuable experience and trained staff in undersea tunnelling,
@@ -213,7 +213,7 @@ their build dates are uncertain,
 with routes heading east from Bangkok being prioritised instead.
 Perhaps this is informed by road usage rather than flights;
 to get planes out of the sky,
-Phuket–Bangkok–Chiang Mai is essential.
+Phukhet–Bangkok–Chiang Mai is essential.
 
 Finally for phase 1,
 Indonesia being comprised of many islands makes rail harder than for some nations,
@@ -352,7 +352,7 @@ Going roughly from south to north:
 We link Kuala Lumpur with the line through Thailand near Tha Chana.
 I've routed this to leave Phukhet on a spur,
 rather than introducing a dog leg
-(or a long tunnel segmnet)
+(or a long tunnel segment)
 to have a through route through Phukhet,
 since it's not clear there is huge demand for travel south from Phukhet.
 That said,
@@ -385,7 +385,7 @@ To fix both of these issues,
 we build the Okinawa Shinkansen:
 a thousand kilometres of maglev railway,
 branching off the line between Oita and Fukuoka,
-headling south through Kyushu,
+heading south through Kyushu,
 then island hopping via Nishinoomote and Amami,
 plus some smaller staging islands,
 to Naha in Okinawa.
@@ -478,7 +478,7 @@ to not be worthwhile.
 ## Rules for Crayonistas
 
 I've tried to think about
-how [Railnatter][railnatter]'s [Rules for Crayonistas][rules] apply to this project.
+how [#Railnatter][railnatter]'s [Rules for Crayonistas][rules] apply to this project.
 
 ### Think about what it’s for
 
@@ -569,7 +569,7 @@ For this,
 I followed each planned route,
 and divided it into segments going over land,
 and segments going underwater.
-For the former I estimated the coste
+For the former I estimated the cost
 as similar to those for the Chūō,
 around $224 million per kilometre in 2021 US dollars.
 For the undersea tunnels,
@@ -626,7 +626,7 @@ Verdict: probably pass?
 
 ## Conclusion
 
-A few trillian dollars
+A few trillion dollars
 ~~and a little quasi-colonialism~~
 seems a small price to pay for
 a completely transformed transport network for East and Southeast Asia,
@@ -645,3 +645,5 @@ Schematic:
 [tt-movie]: https://en.wikipedia.org/wiki/The_Tunnel_(1935_film)
 [wp-routes]: https://en.wikipedia.org/wiki/List_of_busiest_passenger_flight_routes
 [yt]: https://www.youtube.com/watch?v=RhoL7mQ0OeI
+
+LocalWords:  yt
