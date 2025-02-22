@@ -15,7 +15,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-category-pages
-exclude: [gems]
+exclude: [gems, vendor]
 header_pages:
   - blog.md
 permalink: /:year/:month/:day/:title:output_ext
