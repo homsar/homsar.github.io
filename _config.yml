@@ -1,0 +1,23 @@
+title: Tachibana Kanade
+description: >-
+  A place to put things I'd otherwise dump on Discord or Mastodon,
+  but are a bit long.
+  Maybe some other projects one day.
+baseurl: "/"
+url: "https://tachibanakana.day"
+github_username:  homsar
+mastodon:
+ - instance: mastodon.social
+   username: h0m54r
+youtube_username: "@h0m54r"
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-category-pages
+exclude: [gems]
+header_pages:
+  - blog.md
+permalink: /:year/:month/:day/:title:output_ext
+paginate: 5
+category_layout: category_index.html

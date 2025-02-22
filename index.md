@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # It's me, Tachibana Kanade
 
 You might know me from:
