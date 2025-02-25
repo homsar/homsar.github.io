@@ -50,7 +50,8 @@ you’d have to depart Swansea before the last express service
 or you’d be boarding at Bristol at 1am.
 
 What about if you could have a "slip coach sleeper" service?
-You rock up to your local station at 9–10pm and board a single sleeper car.
+You rock up to your local station at 9–10pm and board a single sleeper car,
+and go to sleep.
 It shuttles off into a siding
 (or is sitting in a very small bay platform already),
 sited to the west of the station.
@@ -68,7 +69,9 @@ _(Please excuse the terrible PowerPoint animation…)_
 Goes the long way around from Reading
 (assuming coming from the west, at least)
 and pulls into either King’s Cross or St Pancras at 0630.
-Not early enough to meet the first Eurostar,
+You wake up at a reasonable time,
+ready to check in for your Eurostar.
+Not early enough to meet the first train of the day,
 but fine for the 0801 or 0931.
 Similarly to the Caledonian Sleeper,
 occupies the platform for a couple of hours
