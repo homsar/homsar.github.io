@@ -82,6 +82,9 @@ Requirements:
   each capable of propelling itself up to maybe 15mph with gangway doors exposed.
   (If you need a shunter to move the coaches when they need to couple,
   this entire idea falls apart)
+- All kinds of accommodation present in each vehicle
+  (possibly with the exception of seats,
+  where one could expect people to wait at the station and join the train as it passes)
 - Automated coupling,
   or at least more seamless than currently. 
 - Approval for automated operations on restricted
