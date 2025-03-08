@@ -84,7 +84,7 @@ Requirements:
 - Multiple unit sleeper stock,
   each capable of propelling itself up to maybe 15mph with gangway doors exposed.
   (If you need a shunter to move the coaches when they need to couple,
-  this entire idea falls apart)
+  this entire idea falls apart*)
 - All kinds of accommodation present in each vehicle
   (possibly with the exception of seats,
   where one could expect people to wait at the station and join the train as it passes)
@@ -166,4 +166,14 @@ although whether any railway will ever fully implement ERTMS
 to the point that virtual coupling could be done practically and reliably
 is an open question.
 
+\* _Edit 2025-03-08_:
+Thanks to user painting4 on the [#Railnatter Discord][rn-discord]
+for pointing out the existence of these
+[adorable little battery shunters][battery-shunter].
+While current models cannot operate autonomously or provide hotel power,
+producing a variant that does this
+and allows standard locomotive-hauled sleeper stock to be used
+is likely to be far more achievable than producing EMU sleeper stock from scratch.
+
+[battery-shunter]: https://www.railwaygazette.com/uk/battery-shunter-replaces-diesel-locomotive/60661.article
 [rn-discord]: https://garethdennis.co.uk/discord
