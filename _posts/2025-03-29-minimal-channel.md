@@ -152,7 +152,7 @@ One of the difficulties of running passenger trains through the tunnel is that
 the operator needs to work with three different track access organisations
 ([SNCF Réseau][sncf-reseau],
 [GetLink][getlink],
-and either ~~High Speed 1~~ [St Pancras High Speed][sphs]
+and either ~~High Speed 1~~* [St Pancras High Speed][sphs]
 or [Network Rail][network-rail]),
 work to three different sets of regulations and loading gauges,
 and certify rolling stock for two countries plus the tunnel,
@@ -456,6 +456,23 @@ far closer to each other sociologically.
 
 Now,
 does anyone have a couple of Channel Tunnel-compatible trains they could lend me?
+
+<!-- markdownlint-disable -->
+<small>
+<!-- markdownlint-enable -->
+\* During the research for this post,
+I found that
+almost all of the documents referenced in the Network Statement for High Speed 1
+are listed as links to the `highspeed1.co.uk` domain,
+almost all of which no longer resolve due to the rebrand.
+This is presumably making life a little more difficult
+for new entrants into this market.
+I got in touch with St Pancras High Speed
+to ask that they update the Network Statement,
+but haven't heard back at time of writing.
+<!-- markdownlint-disable -->
+</small>
+<!-- markdownlint-enable -->
 
 _All map images shown are from [OpenRailwayMap][orm],
 including data from [OpenStreetMap][osm] contributors._
