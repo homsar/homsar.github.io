@@ -41,7 +41,7 @@ SELECT ?town ?townLabel ?population ?coord ?lon ?lat WHERE {
   ?coordinate psv:P625 ?coordinate_node.
   ?coordinate_node wikibase:geoLongitude ?lon.
   ?coordinate_node wikibase:geoLatitude ?lat.
-  FILTER(?lat >= 51.8 && ?lat <= 52.1). 
+  FILTER(?lat >= 51.8 && ?lat <= 52.1).
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 }
 ```
@@ -54,18 +54,18 @@ SELECT ?town ?townLabel ?population ?coord ?lon ?lat
 
 Data I'm interested in:
 
- - `?town`: A link to the full Wikidata entry
- - `?townLabel`: The name of the town
- - `?population`: The population of the town,
+- `?town`: A link to the full Wikidata entry
+- `?townLabel`: The name of the town
+- `?population`: The population of the town,
    so I can skip towns with only a handful of people
    (this ended up not working,
    unfortunately)
- - `?coord`: The latitude and longitude in Wikidata's internal format
+- `?coord`: The latitude and longitude in Wikidata's internal format
    (which ended up not being useful,
    but the documentation recommended it)
- - `?lon`: The longitude,
+- `?lon`: The longitude,
    so I can put the entries in order
- - `?lat`: The latitude,
+- `?lat`: The latitude,
    so I can filter to a closer fit if I need to
 
 ```sparql
@@ -185,7 +185,7 @@ SELECT ?airport ?airportLabel ?coord ?lon ?lat WHERE {
   ?coordinate psv:P625 ?coordinate_node.
   ?coordinate_node wikibase:geoLongitude ?lon.
   ?coordinate_node wikibase:geoLatitude ?lat.
-  FILTER(?lat > 51.8 && ?lat < 52.1). 
+  FILTER(?lat > 51.8 && ?lat < 52.1).
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 }
 ```
@@ -366,8 +366,6 @@ Not enough that a railway makes any degree of sense
 if you squint),
 and the map would be really annoying to draw,
 so I decided that restricting to Europe made for a better final picture.
-
-
 
 [airport]: https://www.wikidata.org/wiki/Q1248784
 [big-city]: https://www.wikidata.org/wiki/Q1549591

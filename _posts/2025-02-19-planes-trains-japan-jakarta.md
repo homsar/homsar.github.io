@@ -226,7 +226,6 @@ many communities along the route currently without any high-speed public transit
 but with many red lines replaced by curvier dashed blue ones
 representing the new maglev lines discussed in phase 1](/images/maglev/crayons-phase1.png){: .displaypic}
 
-
 ## Phase 1a
 
 Depending on how Phase 1 is received,

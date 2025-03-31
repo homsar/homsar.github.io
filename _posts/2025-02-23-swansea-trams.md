@@ -311,7 +311,6 @@ compared with our European neighbours?
 
 ![Rought schematic map of the proposal.](/images/swansea-trams/schematic.png){: .displaypic}
 
-
 [adrian-beasley]: https://www.croal.uk
 [civic-centre]: https://en.wikipedia.org/wiki/Swansea_Civic_Centre
 [dunvant-railway-video]: https://player.bfi.org.uk/free/film/watch-swansea-victoria-pontardulais-railway-1964-june-1964-online

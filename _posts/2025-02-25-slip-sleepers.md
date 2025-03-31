@@ -64,7 +64,11 @@ which then continues onward.
 
 ![Animation illustrating the above paragraph](/images/slip-sleeper/platform.gif){: .displaypic}
 
+<!-- markdownlint-disable -->
+
 _(Please excuse the terrible PowerPoint animation…)_
+
+<!-- markdownlint-enable -->
 
 Goes the long way around from Reading
 (assuming coming from the west, at least)
@@ -81,6 +85,7 @@ decouples each coach at the relevant station,
 and they shuttle into their respective sidings/platforms.
 
 Requirements:
+
 - Multiple unit sleeper stock,
   each capable of propelling itself up to maybe 15mph with gangway doors exposed.
   (If you need a shunter to move the coaches when they need to couple,
@@ -89,7 +94,7 @@ Requirements:
   (possibly with the exception of seats,
   where one could expect people to wait at the station and join the train as it passes)
 - Automated coupling,
-  or at least more seamless than currently. 
+  or at least more seamless than currently.
 - Approval for automated operations on restricted
   (a few hundred metres)
   sections of lines into stations.
@@ -113,13 +118,13 @@ Looking at a service from South Wales specifically:
   that would seemingly just require some track reinstatement,
   but the terminus layout means you either couple on the mainline near Landore,
   or run autonomous to Llansamlet,
-  or couple at both ends. 
+  or couple at both ends.
 - Neath has a little room to the north for a siding to the east,
   but it would need to be elevated as the existing line is.
   Alternatively,
   there is room for a bay platform 0 to the west,
   but then you’d need to do a little jig through platform 1 to platform 2 to couple.
-  Either way you’d need a new crossover. 
+  Either way you’d need a new crossover.
 - Port Talbot already has sidings,
   and enough space to build a platform for one of them,
   although I suspect the existing sidings
@@ -147,7 +152,7 @@ Looking at a service from South Wales specifically:
   It’s close enough to London that getting to St Pancras in time for an early departure
   becomes less of an issue—you
   can get the Elizabeth line to Liverpool Street for the 0931 quite easily.
-  Meeting the 0801 is still annoying. 
+  Meeting the 0801 is still annoying.
 
 One thing that would make some of this easier would be virtual coupling:
 where two vehicles can move under the same signal block

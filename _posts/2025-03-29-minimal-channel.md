@@ -152,7 +152,7 @@ One of the difficulties of running passenger trains through the tunnel is that
 the operator needs to work with three different track access organisations
 ([SNCF Réseau][sncf-reseau],
 [GetLink][getlink],
-and either <s>High Speed 1</s> [St Pancras High Speed][sphs]
+and either ~~High Speed 1~~ [St Pancras High Speed][sphs]
 or [Network Rail][network-rail]),
 work to three different sets of regulations and loading gauges,
 and certify rolling stock for two countries plus the tunnel,
@@ -460,11 +460,9 @@ does anyone have a couple of Channel Tunnel-compatible trains they could lend me
 _All map images shown are from [OpenRailwayMap][orm],
 including data from [OpenStreetMap][osm] contributors._
 
-
 [ashford]: https://en.wikipedia.org/wiki/Ashford_International_station
 [calais-frethun]: https://en.wikipedia.org/wiki/Calais-Fréthun_station
 [calais-ville]: https://en.wikipedia.org/wiki/Calais-Ville_station
-[ebbsfleet]: https://en.wikipedia.org/wiki/Ebbsfleet_International_station
 [cross-channel-rail]: https://crossborderrail.trainsforeurope.eu/projects/crosschannelrail/
 [folkestone-west]: https://en.wikipedia.org/wiki/Folkestone_West_railway_station
 [getlink]: https://www.getlinkgroup.com
@@ -479,4 +477,3 @@ including data from [OpenStreetMap][osm] contributors._
 [sandling]: https://en.m.wikipedia.org/wiki/Sandling_railway_station
 [sncf-reseau]: https://www.sncf-reseau.com/
 [sphs]: https://stpancras-highspeed.com
-[stratford]: https://en.wikipedia.org/wiki/Stratford_International_station
