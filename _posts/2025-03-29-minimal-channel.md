@@ -443,7 +443,7 @@ and an extra hour for checking in for international services
 | Route | Current | Potential |
 | - | - | - |
 | Folkestone Central&ndash;Calais-Ville | **5:23** (change at St Pancras and Lille-Europe) | **2:12** (change at Sandling International and Calais-Fréthun) |
-| Dover Priory&ndash;Dunkerque | **5:31** (change at St Pancras and Lille-Europe | **3:21** (change at Sandling International and Lille-Europe) |
+| Dover Priory&ndash;Dunkerque | **5:31** (change at St Pancras and Lille-Europe) | **3:21** (change at Sandling International and Lille-Europe) |
 | Hastings&ndash;Boulogne | **6:24** (change at Charing Cross, St Pancras, Lille-Europe, and Calais-Fréthun) | **3:20** (change at Ashford International and Calais-Fréthun) |
 
 As anticipated,
