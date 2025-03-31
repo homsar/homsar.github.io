@@ -466,6 +466,7 @@ including data from [OpenStreetMap][osm] contributors._
 [calais-ville]: https://en.wikipedia.org/wiki/Calais-Ville_station
 [ebbsfleet]: https://en.wikipedia.org/wiki/Ebbsfleet_International_station
 [cross-channel-rail]: https://crossborderrail.trainsforeurope.eu/projects/crosschannelrail/
+[folkestone-west]: https://en.wikipedia.org/wiki/Folkestone_West_railway_station
 [getlink]: https://www.getlinkgroup.com
 [getlink-bike]: https://www.leshuttle.com/uk-en/travelling-with-us/travelling-with-different-vehicles/bicycles
 [getlink-coaches]: https://www.leshuttle.com/getmedia/1b391282-8c0f-46fd-b6ab-d6f1784c20c9/LeShuttle-Coach-Calendar-2025-UK.pdf
