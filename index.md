@@ -10,5 +10,6 @@ You might know me from:
 - [Mastodon](https://mastodon.social/@h0m54r)
 - [YouTube](https://www.youtube.com/@h0m54r)
 - [Discord](https://discordapp.com/users/317605876951285763)
+- [Teespring](https://kanadeland.creator-spring.com)
 
 There may or may not be more content here in future.
