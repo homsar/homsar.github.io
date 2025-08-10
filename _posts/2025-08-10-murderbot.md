@@ -329,6 +329,26 @@ don't make very much sense,
 beyond establishing
 "this is a sci-fi series with space travel".
 
+## Sanctuary Moon
+
+The snippets of _The Rise and Fall of Sanctuary Moon_ that we are shown are very fun,
+and clearly the people working on them had a great time with it.
+They suffer from the same problem suffered by
+many shows-within-shows and similar vignettes of supposedly larger works,
+that they end up a little too self-contained
+with no obvious connections to the larger work.
+(The last scene we are shown has the entire cast that we've seen being killed.)
+That it is portrayed as a massively camped-up pastiche of
+original Star Trek and similar series
+is hard to reconcile with the fact that it is supposed to be set on a colony
+(presumably on a moon),
+something which is retained in the dialog discussing the show.
+
+More generally,
+that the media is described as "shows" rather than "(entertainment) media"
+is irritating;
+it seems to insult the (American) audience's intelligence.
+
 ## Setting and themes
 
 In the books,
@@ -423,6 +443,11 @@ has put me off watching other Apple TV+ adaptations;
 in principle I might have been interested in watching Foundation,
 but at this point I'd rather not.
 
+I hope Martha Wells got paid well for the rights and the production credit,
+and that lots of people go and read the books off the back of watching this,
+as I don't think the adaptation in itself does anything to advance the vision
+that she set out in the books.
+
 If you are curious,
 I'd definitely recommend the books.
 At least try the first four novellas,
@@ -435,6 +460,12 @@ if you're still hungry for more.
 [^1]: I'll use this name for the title character,
       since unlike some of the characters in the books,
       it never gives the reader permission to use the name it chose for itself.
+
+## Changelog
+
+- 2025-08-10 0130 Original version
+- 2025-08-10 1330 Added discussion of Sanctuary Moon,
+  and an extra paragraph of conclusion
 
 [alex]: https://en.wikipedia.org/wiki/Alexander_Skarsgård
 [batou]: https://en.wikipedia.org/wiki/Batou
