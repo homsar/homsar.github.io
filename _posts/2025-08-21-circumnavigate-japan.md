@@ -1442,7 +1442,7 @@ Rendering: OpenRailwayMap.
 [aobuta]: https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream
 [garupan]: https://en.wikipedia.org/wiki/Girls_und_Panzer
 [hokuriku]: https://en.wikipedia.org/wiki/Hokuriku_Shinkansen
-[maglev]: ./2025-02-19-planes-trains-japan-jakarta.md
+[maglev]: {% post_url 2025-02-19-planes-trains-japan-jakarta %}
 [nishi-kyushu]: https://en.wikipedia.org/wiki/Nishi_Kyushu_Shinkansen
 [obama]: https://en.wikipedia.org/wiki/Obama,_Fukui
 [sendai]: https://en.wikipedia.org/wiki/Sendai

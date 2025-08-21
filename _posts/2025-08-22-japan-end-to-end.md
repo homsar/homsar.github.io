@@ -21,7 +21,7 @@ and the answer is in the process of changing.
 The Shinkansen network started between [Tokyo and Osaka][tokaido],
 but now extends from there [west to Hakata][sanyo],
 [south to Kagoshima][kyushu],
-and [north to Hokkaido]tohoku],
+and [north to Hokkaido][tohoku],
 with branches to [Tsuruga (via Nagano)][hokuriku],
 [Niigata][joetsu],
 [Shinjo][yamagata],
@@ -261,14 +261,15 @@ waiting for my train to Wakkanai.
 [800kei]: https://en.wikipedia.org/wiki/800_Series_Shinkansen
 [akita]: https://en.wikipedia.org/wiki/Akita_Shinkansen
 [chuo]: https://en.wikipedia.org/wiki/Chūō_Shinkansen
-[circumnavigate]: ./2025-08-21-circumnavigate-japan.md
+[circumnavigate]: {% post_url 2025-08-21-circumnavigate-japan %}
 [hokuriku]: https://en.wikipedia.org/wiki/Hokuriku_Shinkansen
 [joetsu]: https://en.wikipedia.org/wiki/Jōetsu_Shinkansen
 [kyushu]: https://en.wikipedia.org/wiki/Kyushu_Shinkansen
-[maglev]: ./2025-02-19-planes-trains-japan-jakarta.md
+[maglev]: {% post_url 2025-02-19-planes-trains-japan-jakarta %}
 [nishi-kyushu]: https://en.wikipedia.org/wiki/Nishi_Kyushu_Shinkansen
 [nishioyama]: https://en.wikipedia.org/wiki/Nishi-Ōyama_Station
 [sanyo]: https://en.wikipedia.org/wiki/Sanyo_Shinkansen
+[tohoku]: https://en.wikipedia.org/wiki/Tohoku_Shinkansen
 [tokaido]: https://en.wikipedia.org/wiki/Tokaido_Shinkansen
 [wakkanai]: https://en.wikipedia.org/wiki/Wakkanai_Station
 [yamagata]: https://en.wikipedia.org/wiki/Yamagata_Shinkansen
