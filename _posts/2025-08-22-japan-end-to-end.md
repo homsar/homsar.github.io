@@ -258,18 +258,18 @@ waiting for my train to Wakkanai.
       is an amazing privilege to much of the world;
       just by Shinkansen standards it's on the low side.
 
-[800kei]: https://en.wikipedia.org/wiki/800_Series_Shinkansen
-[akita]: https://en.wikipedia.org/wiki/Akita_Shinkansen
-[chuo]: https://en.wikipedia.org/wiki/Chūō_Shinkansen
-[circumnavigate]: {% post_url 2025-08-21-circumnavigate-japan %}
-[hokuriku]: https://en.wikipedia.org/wiki/Hokuriku_Shinkansen
-[joetsu]: https://en.wikipedia.org/wiki/Jōetsu_Shinkansen
-[kyushu]: https://en.wikipedia.org/wiki/Kyushu_Shinkansen
-[maglev]: {% post_url 2025-02-19-planes-trains-japan-jakarta %}
-[nishi-kyushu]: https://en.wikipedia.org/wiki/Nishi_Kyushu_Shinkansen
-[nishioyama]: https://en.wikipedia.org/wiki/Nishi-Ōyama_Station
-[sanyo]: https://en.wikipedia.org/wiki/Sanyo_Shinkansen
-[tohoku]: https://en.wikipedia.org/wiki/Tohoku_Shinkansen
-[tokaido]: https://en.wikipedia.org/wiki/Tokaido_Shinkansen
-[wakkanai]: https://en.wikipedia.org/wiki/Wakkanai_Station
-[yamagata]: https://en.wikipedia.org/wiki/Yamagata_Shinkansen
+[800kei]: <https://en.wikipedia.org/wiki/800_Series_Shinkansen>
+[akita]: <https://en.wikipedia.org/wiki/Akita_Shinkansen>
+[chuo]: <https://en.wikipedia.org/wiki/Chūō_Shinkansen>
+[circumnavigate]: <{% post_url 2025-08-21-circumnavigate-japan %}>
+[hokuriku]: <https://en.wikipedia.org/wiki/Hokuriku_Shinkansen>
+[joetsu]: <https://en.wikipedia.org/wiki/Jōetsu_Shinkansen>
+[kyushu]: <https://en.wikipedia.org/wiki/Kyushu_Shinkansen>
+[maglev]: <{% post_url 2025-02-19-planes-trains-japan-jakarta %}>
+[nishi-kyushu]: <https://en.wikipedia.org/wiki/Nishi_Kyushu_Shinkansen>
+[nishioyama]: <https://en.wikipedia.org/wiki/Nishi-Ōyama_Station>
+[sanyo]: <https://en.wikipedia.org/wiki/Sanyo_Shinkansen>
+[tohoku]: <https://en.wikipedia.org/wiki/Tohoku_Shinkansen>
+[tokaido]: <https://en.wikipedia.org/wiki/Tokaido_Shinkansen>
+[wakkanai]: <https://en.wikipedia.org/wiki/Wakkanai_Station>
+[yamagata]: <https://en.wikipedia.org/wiki/Yamagata_Shinkansen>
