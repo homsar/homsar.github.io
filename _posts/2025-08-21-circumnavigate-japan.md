@@ -1436,6 +1436,9 @@ and can fund it.
 [^9]: Train time estimates are from my first pass at routing,
       so don't precisely tie up with the timings in the final itinerary.
 
+All map data is (c) OpenStreetMap contributors.
+Rendering: OpenRailwayMap.
+
 [aobuta]: https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream
 [garupan]: https://en.wikipedia.org/wiki/Girls_und_Panzer
 [hokuriku]: https://en.wikipedia.org/wiki/Hokuriku_Shinkansen
