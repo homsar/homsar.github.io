@@ -39,7 +39,7 @@ Yes, easily!
 Here are some possible itineraries:
 
 | Service name | Departure station | Arrival station || Depart | Arrive || Depart | Arrive || Depart | Arrive || Depart | Arrive |
-| = | = | = || = | = || = | = || = | = || = | = |
+| - | - | - || - | - || - | - || - | - || - | - |
 | _Mizuho_ 600/602/604/606 | Kagoshima-Chuo | Shin-Osaka || 06:35 | 10:21 || 07:32 | 11:21 || 08:32 | 12:21 || 10:32 | 14:21 |
 | _Nozomi_ 10/90/92/96 | Shin-Osaka | Tokyo || 10:30 | 12:57 || 11:30 | 13:57 || 12:30 | 14:57 || 14:30 | 16:57 |
 | _Hayabusa_ 23/25/29/35 | Tokyo | Shin-Hakodate-Hokuto || 13:20 | 17:47 || 14:20 | 18:29 || 15:20 | 19:44 || 17:20 | 21:44 |
@@ -79,7 +79,7 @@ This is still possible,
 although now we are limited to one route per day.
 
 | Service name | Departure station | Arrival station || Depart | Arrive || Depart | Arrive |
-| = | = | = || = | = || = | = |
+| - | - | - || - | - || - | - |
 | _Hokuto_ 19/21 | Shin-Hakodate-Hokuto | Sapporo || 18:14 | 21:41 || 19:01 | 22:41 |
 | _Kamui_ 45 | Sapporo | Asahikawa || 22:00 | 23:25 || &mdash; | &mdash; |
 
@@ -121,7 +121,7 @@ we can make it from Nishi-Oyama,
 but we miss the connection to Wakkanai.
 
 | Service name | Departure station | Arrival station || Depart | Arrive || Depart | Arrive |
-| = | = | = || = | = || = | = ||
+| - | - | - || - | - || - | - ||
 | (Local train) | Nishi-Oyama | Yamakawa || &mdash; | &mdash; || 05:53 | 06:05 |
 | (Local train) | Yamakawa | Kagoshima-Chuo || &mdash; | &mdash; || 06:11 | 07:28 |
 | _Mizuho_ 600/602 | Kagoshima-Chuo | Shin-Osaka || 06:35 | 10:21 || 07:32 | 11:21 |
@@ -168,7 +168,7 @@ we've added a lot of complexity,
 but saved no time.
 
 | Service name | Departure station | Arrival station || Depart | Arrive |
-| = | = | = || = | = || = | = ||
+| - | - | - || - | - || - | - ||
 | (Local train) | Nishi-Oyama | Yamakawa || 05:53 | 06:05 |
 | (Local train) | Yamakawa | Kagoshima-Chuo || 06:11 | 07:28 |
 | _Mizuho_ 602 | Kagoshima-Chuo | Shin-Osaka || 07:32 | 11:21 |
@@ -210,7 +210,7 @@ and you can reasonably expect to get a night of sleep before and after
 and you're travelling from outside London).
 
 | Service name | Departure station | Arrival station || Depart | Arrive |
-| = | = | = || = | = || = | = ||
+| - | - | - || - | - || - | - ||
 | (Local train) | Nishi-Oyama | Yamakawa || 05:53 | 06:05 |
 | (Local train) | Yamakawa | Kagoshima-Chuo || 06:11 | 07:28 |
 | _Mizuho_ 602 | Kagoshima-Chuo | Shin-Osaka || 07:32 | 11:21 |

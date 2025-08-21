@@ -90,12 +90,12 @@ into the four subsidiary tasks of circumnavigating each island
 Some statistics:
 
 | Island | Number of legs | Number of days | Total distance | Maximum cost |
-| = | = | = | = | = |
+| - | - | - | - | - |
 | Honshu | 110 | 15 | 4514.1km | ¥115,807 |
 | Shikoku | 19 | 3–4 | 667.6km | ¥20,440 |
 | Kyushu | 27 | 4 | 1218.8km | ¥35,260 |
 | Hokkaido | 14 | 4–5 | 1453.9km | ¥38,080 |
-| = | = | = | = | = |
+| - | - | - | - | - |
 | **All Japan** | **176** | **~28** | **8073.6km** | **¥216,357** |
 
 I say "maximum cost" here because I've computed the cost of each leg separately
@@ -601,7 +601,7 @@ Out-of-station interchanges and changes of operator are marked in **bold**;
 they may require a longer connection time.
 
 | Day | Depart | | | Arrive | Operator |
-| = | = | = | = | = | = |
+| - | - | - | - | - | - |
 | 1 | Haneda Airport Terminals 1/2 | 09:09 | 09:19 | Keikyu Kamata | Keikyu |
 | 1 | Keikyu Kamata | 09:24 | 09:29 | Keikyu Kawasaki | Keikyu |
 | 1 | Keikyu Kawasaki | 09:32 | 09:34 | Hatchou-nawate | Keikyu |
@@ -613,7 +613,6 @@ they may require a longer connection time.
 | 1 | Kanazawa-Hakkei | 11:51 | 12:09 | Keikyu Kurihama | **Keikyu** |
 | 1 | **Kurihama** | 12:24 | 12:44 | Zushi | **JR East** |
 | 1 | Zushi | 12:52 | 12:56 | Kamakura | JR East |
-
 | 1 | Kamakura | 13:04 | 13:29 | Enoshima | **Enoden** |
 | - | - | - | - | - | - |
 | 1 | Enoshima | 14:56 | 15:05 | Fujisawa | Enoden |
@@ -894,11 +893,10 @@ Out-of-station interchanges and changes of operator are marked in **bold**;
 they may require a longer connection time.
 
 | Day | Depart | | | Arrive | Operator |
-| = | = | = | = | = | = |
+| - | - | - | - | - | - |
 | 1 | Utazu | 09:13 | 11:15 | Matsuyama | JR Shikoku |
 | 1 | **JR Matsuyama** | 11:20 | 11:25 | Komachi | **Iyotetsu** |
 | 1 | Komachi | 11:30 | 11:34 | Matsuyama City | Iyotetsu |
-
 | 1 | Matsuyama City | 11:45 | 12:09 | Gunchuko | Iyotetsu |
 | - | - | - | - | - | - |
 | 1 | **Iyoshi** | 13:39 | 15:03 | Uwajima | **JR Shikoku** |
@@ -1098,13 +1096,12 @@ Out-of-station interchanges and changes of operator are marked in **bold**;
 they may require a longer connection time.
 
 | Day | Depart | | | Arrive | Operator |
-| = | = | = | = | = | = |
+| - | - | - | - | - | - |
 | 1 | Kokura | 09:01 | 10:11 | Kashii | JR Kyushu |
 | 1 | Nishitetsu Kashii | 10:27 | 10:38 | Kaizuka | Nishitetsu |
 | 1 | Kaizuka | 10:40 | 10:50 | Nakasu-Kawabata | Fukuoka City Subway |
 | 1 | Nakasu-Kawabata | 10:54 | 11:09 | Meinohama | Fukuoka City Subway |
 | 1 | Meinohama | 11:11 | 11:35 | Chikuzen-Maebaru | JR Kyushu |
-
 | 1 | Chikuzen-Maebaru | 11:38 | 12:31 | Nishi-Karatsu | JR Kyushu |
 | - | - | - | - | - | - |
 | 1 | Nishi-Karatsu | 13:33 | 13:58 | Yamamoto | JR Kyushu |
@@ -1270,28 +1267,28 @@ the Hokkaido Shinkansen from Shin-Hakodate-Hokuto to Shin-Aomori.
 #### Summary <!-- Hokkaido -->
 
 | Day | Depart | | | Arrive | Operator |
-| = | = | = | = | = | = |
+| - | - | - | - | - | - |
 | 1 | Kikonai | 09:12 | 10:12 | Hakodate | South Hokkaido Railway |
 | 1 | Hakodate | 10:45 | 12:14 | Oshamambe | JR Hokkaido |
-| - | - | - | - | - |
+| - | - | - | - | - | - |
 | 1 | Oshamambe | 16:39 | 19:49 | Otaru | JR Hokkaido |
 | 1 | Otaru | 19:45 | 20:42 | Sapporo | JR Hokkaido |
-| = | = | = | = | = |
+| = | = | = | = | = | = |
 | 2 | Sapporo | 11:06 | 11:47 | Iwamizawa | JR Hokkaido |
 | 2 | Iwamizawa | 12:00 | 13:37 | Asahikawa | JR Hokkaido |
-| - | - | - | - | - |
+| - | - | - | - | - | - |
 | 2 | Asahikawa | 15:10 | 19:41 | Abashiri | JR Hokkaido |
-| = | = | = | = | = |
+| = | = | = | = | = | = |
 | 3 | Abashiri | 10:24 | 13:33 | Kushiro | JR Hokkaido |
-| - | - | - | - | - |
+| - | - | - | - | - | - |
 | 3 | Kushiro | 17:06 | 19:26 | Obihiro | JR Hokkaido |
-| = | = | = | = | = |
+| = | = | = | = | = | = |
 | 4 | Obihiro | 08:42 | 10:47 | Oiwake | JR Hokkaido |
-| = | = | = | = | = |
+| = | = | = | = | = | = |
 | 4 | Oiwake | 14:09 | 14:45 | Tomakomai | JR Hokkaido |
 | 4 | Tomakomai | 15:11 | 16:07 | Higashi-Muroran | JR Hokkaido |
 | 4 | Higashi-Muroran | 16:17 | 17:55 | Oshamambe | JR Hokkaido |
-| = | = | = | = | = |
+| = | = | = | = | = | = |
 | 5 | Oshamambe | 13:38 | 16:32 | Hakodate | JR Hokkaido |
 
 ## Rail passes
@@ -1336,11 +1333,10 @@ however,
 if we didn't do the Kyushu loop.)
 
 | Loop | Maximum cost | Possible pass | Pass length | Pass cost | Total maximum cost with pass | Saving |
-| = | = | = | = | = | = | = |
+| - | - | - | - | - | - | - |
 | Honshu | ¥115,807 | JR West All Access pass + JR East Rail Pass | 7 + 5 days | ¥26,000 + ¥30,000 | ¥76,561 | ¥39,246 |
 | Shikoku | ¥20,440 | ALL SHIKOKU Rail Pass | 4 days | ¥15,000 | ¥15,000 | ¥5,440 |
 | Kyushu | ¥35,260 | JR All Kyushu Rail Pass | 5 days | ¥24,000 | ¥30,740 | ¥4,520 |
-
 | Hokkaido | ¥38,080 | JR Hokkaido Rail Pass | 7 days | ¥28,000 | ¥29,290 | ¥8,790 |
 | - | - | - | - | - | - | - |
 | All-Japan | ¥216,357 | JR East Rail Pass + JR Hokkaido Rail Pass + ALL SHIKOKU Rail Pass + JR All Kyushu Rail Pass | 5 + 7 + 4 + 5 days | ¥97,000 | ¥177,841 | ¥38,516 |
@@ -1359,7 +1355,7 @@ To give a feel for it,
 here's how the length of track and estimated total time on trains[^9] stacks up:
 
 | Region | Total length (easy mode) | Total travel time (easy mode) | Maximum cost (easy mode) || Total length with spurs (hard mode) | Total travel time (hard mode) | Maximum cost (hard mode) |
-| = | = | = | = || = | = | = |
+| - | - | - | - || - | - | - |
 | Honshu | 4514.5km | 3 days 14 hours | ¥115,807 || 6427.5km | 5 days 14 hours | ¥183,873 |
 | Shikoku | 667.6km | 15 hours | ¥20,440 || 845.0km | 20 hours | ¥26,520 |
 | Kyushu | 1218.8km | 22 hours | ¥35,260 || 1783km | 1 day 15 hours | ¥49,750 |
