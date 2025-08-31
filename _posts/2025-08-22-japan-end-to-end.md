@@ -51,8 +51,9 @@ Total time requirement is then 12 hours, 57 minutes.
 If speed were slightly less of a concern
 and you wanted to experience
 the more comfortable Kyushu-exclusive [800-series Shinkansen][800kei],
-you could also take the Sakura 400 (departing 06:04) to Shin-Osaka,
-or take any Tsubame service and change in Hakata for the Nozomi instead of Shin-Osaka.
+you could also take the Sakura 400 (departing 06:04),
+or any Tsubame service,
+and change in Hakata for the Nozomi instead of Shin-Osaka.
 
 ## Major Cities
 
@@ -257,6 +258,13 @@ waiting for my train to Wakkanai.
       I realise that "multiple trains per hour"
       is an amazing privilege to much of the world;
       just by Shinkansen standards it's on the low side.
+
+## Changes
+
+2025-09-01 00:32:
+Fixed an inaccuracy claiming that you could take the 800 series to Shin-Osaka.
+You can't,
+you can only get it as far as Hakata.
 
 [800kei]: <https://en.wikipedia.org/wiki/800_Series_Shinkansen>
 [akita]: <https://en.wikipedia.org/wiki/Akita_Shinkansen>
