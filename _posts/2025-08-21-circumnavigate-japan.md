@@ -347,7 +347,7 @@ opening out onto the Sea of Japan.
 
 Day 7 has another early start,
 at 08:40 with a JR service to Kogushi.
-From there we pick up a rail replacement bus service&mdash;due
+~~From there we pick up a rail replacement bus service&mdash;due
 to severe weather in 2023,
 much of the extremely coastal track from Kogushi to Nagatoshi
 is currently impassible.
@@ -357,12 +357,21 @@ the lines in eastern Tohoku that I'll discuss later.
 I was in two minds as to whether to keep this leg,
 but the alternative route to Kogushi involves doubling back halfway to Yamaguchi,
 meaning you'd only go through Shimonoseki if you were continuing to Kyushu,
-which skips a lot of coast.
+which skips a lot of coast.~~
 
-So we take the rail replacement bus at 09:51,
+~~So we take the rail replacement bus at 09:51,
 crossing our fingers that rail service will one day be restored,
 and arrive in Nagatoshi at 11:39,
-where we stop for an early lunch.
+where we stop for an early lunch.~~
+
+_EDIT 2025-10-11_:
+As of September 2025,
+the San'in Line from Kogushi to Nagatoshi has reopened!
+There is a direct train from Shimonoseki to Nagatoshi,
+but it is too late in the day to be useful to us,
+so instead we'll keep the connection at Kogushi,
+but arrive in Nagatoshi slightly earlier for a slightly longer early lunch.
+
 This is one of the parts of Japan where the timetable is quite restrictive,
 so to keep a reasonable rate of progress we need to be flexible with our timings.
 After lunch,
@@ -677,7 +686,7 @@ they may require a longer connection time.
 | 6 | Onoda | 13:38 | 14:19 | Shimonoseki | JR West |
 | = | = | = | = | = | = |
 | 7 | **Shimonoseki** | 08:40 | 09:31 | Kogushi | **JR West** |
-| 7 | Kogushi | 09:51 | 11:39 | Nagatoshi | JR West |
+| 7 | Kogushi | ~~09:51~~ **10:00** | ~~11:39~~ **11:23** | Nagatoshi | JR West |
 | - | - | - | - | - | - |
 | 7 | Nagatoshi | 12:38 | 14:31 | Masuda | JR West |
 | 7 | Masuda | 14:34 | 18:19 | Tottori | JR West |
