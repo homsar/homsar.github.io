@@ -60,7 +60,7 @@ we will only take the Shinkansen if:
 1. It is the closest to the sea for an entire station&ndash;station trip, and
 2. It is _significantly_ more convenient.
    (I.e. not just a slightly faster journey on a similar alignment,
-   but cutting noticeable corner.)
+   but cutting a noticeable corner.)
 
 We only meet these criteria twice in the journey,
 so I'll comment more when we get there.
@@ -578,7 +578,7 @@ If you prefer a longer break en route,
 you could also take the _Hitachi-Tokiwa_ limited express from Sendai at 08:48,
 getting you into Iwaki  at 11:08 or Mito at 12:26.
 One option would be to explore Oarai,
-the city featured in shipboard form in _[Girls und Panzer][garupan].
+the city featured in shipboard form in _[Girls und Panzer][garupan]_.
 
 Matsugishi is a quarter of a mile from the Tone estuary;
 to get even more coastal,
@@ -1107,34 +1107,34 @@ they may require a longer connection time.
 | Day | Depart | | | Arrive | Operator |
 | - | - | - | - | - | - |
 | 1 | Kokura | 09:01 | 10:11 | Kashii | JR Kyushu |
-| 1 | Nishitetsu Kashii | 10:27 | 10:38 | Kaizuka | Nishitetsu |
-| 1 | Kaizuka | 10:40 | 10:50 | Nakasu-Kawabata | Fukuoka City Subway |
+| 1 | **Nishitetsu Kashii** | 10:27 | 10:38 | Kaizuka | **Nishitetsu** |
+| 1 | Kaizuka | 10:40 | 10:50 | Nakasu-Kawabata | **Fukuoka City Subway** |
 | 1 | Nakasu-Kawabata | 10:54 | 11:09 | Meinohama | Fukuoka City Subway |
-| 1 | Meinohama | 11:11 | 11:35 | Chikuzen-Maebaru | JR Kyushu |
+| 1 | Meinohama | 11:11 | 11:35 | Chikuzen-Maebaru | **JR Kyushu** |
 | 1 | Chikuzen-Maebaru | 11:38 | 12:31 | Nishi-Karatsu | JR Kyushu |
 | - | - | - | - | - | - |
 | 1 | Nishi-Karatsu | 13:33 | 13:58 | Yamamoto | JR Kyushu |
 | 1 | Yamamoto | 14:38 | 15:18 | Imari | JR Kyushu |
-| 1 | Imaru | 15:33 | 18:06 | Sasebo | Matsuura Railway |
+| 1 | Imari | 15:33 | 18:06 | Sasebo | **Matsuura Railway** |
 | = | = | = | = | = | = |
-| 2 | Sasebo | 09:05 | 09:14 | Haiki | JR Kyushu |
+| 2 | Sasebo | 09:05 | 09:14 | Haiki | **JR Kyushu** |
 | 2 | Haiki | 09:33 | 10:38 | Isahaya | JR Kyushu |
 | 2 | Isahaya | 12:07 | 12:55 | Nagasaki | JR Kyushu |
 | - | - | - | - | - | - |
-| 2 | Nagasaki Eki-mae | ~14:00 | ~14:16 | City Hall (Nagasaki) | Nagasaki Electric Tramway |
+| 2 | **Nagasaki Eki-mae** | ~14:00 | ~14:16 | City Hall (Nagasaki) | **Nagasaki Electric Tramway** |
 | 2 | City Hall (Nagasaki) | ~14:20 | ~14:25 | Nagasaki Eki-mae | Nagasaki Electric Tramway |
-| 2 | Nagasaki | 17:13 | 17:22 | Isahaya | JR Kyushu (Shinkansen) |
+| 2 | **Nagasaki** | 17:13 | 17:22 | Isahaya | **JR Kyushu** (Shinkansen) |
 | 2 | Isahaya | 17:32 | 18:38 | Hizen-Hama | JR Kyushu |
 | 2 | Hizen-Hama | 18:41 | 19:47 | Tosu | JR Kyushu |
 | = | = | = | = | = | = |
 | 3 | Tosu | 09:05 | 09:12 | Kurume | JR Kyushu |
 | 3 | Kurume | 09:16 | 09:19 | Kurumekokomae | JR Kyushu |
-| 3 | Hanabatake | 10:04 | 10:34 | Omuta | Nishitetsu |
-| 3 | Omuto | 11:21 | 12:28 | Uto | JR Kyushu |
+| 3 | **Hanabatake** | 10:04 | 10:34 | Omuta | **Nishitetsu** |
+| 3 | Omuta | 11:21 | 12:28 | Uto | **JR Kyushu** |
 | - | - | - | - | - | - |
 | 3 | Uto | 15:07 | 15:31 | Yatsushiro | JR Kyushu |
-| 3 | Yatsushiro | 15:42 | 18:06 | Sendai (Satsumasendai) | Hisatsu Orange Railway |
-| 3 | Sendai | 18:32 | 19:22 | Kagoshima-Chuo | JR Kyushu |
+| 3 | Yatsushiro | 15:42 | 18:06 | Sendai (Satsumasendai) | **Hisatsu Orange Railway** |
+| 3 | Sendai | 18:32 | 19:22 | Kagoshima-Chuo | **JR Kyushu** |
 | = | = | = | = | = | = |
 | 4 | Kagoshima-chuo | 08:49 | 10:57 | Miyazaki | JR Kyushu |
 | - | - | - | - | - | - |
