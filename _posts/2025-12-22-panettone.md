@@ -114,7 +114,7 @@ The first hurdle was that it was in Italian;
 this was overcome with a mix of
 applying the limited Italian I've learned from Duolingo,
 and using Apple Translate.
-The second iddue was that some ingredients are not easily available in the UK.
+The second issue was that some ingredients are not easily available in the UK.
 (For example,
 it recommends "Schär mix B" bread flour,
 as unlike other gluten-free flours,
