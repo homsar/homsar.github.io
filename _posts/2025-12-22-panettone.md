@@ -92,6 +92,7 @@ make the mini-panettoni:
 11. Turn the oven up to 160°C,
     and cook for 30 minutes.
 12. The panettoni can be removed from the pan immediately,
+    *Edit*: You almost certainly want to eat them the same day.
     and will likely fall straight out of their silicone cases.
     You probably want to let them cool at least a little before eating.
 
@@ -168,6 +169,20 @@ so just used entire fruit.
 This was probably a little generous compared to the original,
 but the thing my partner likes most about panettone is the citrus aroma,
 so was probably the right call for this recipe.
+
+*Edit*: Having now tried some the next day,
+it is safe to say that the panettoni do not keep well.
+Less than 24 hours later,
+trying them cold,
+they were already very stale,
+and the flavour was not great.
+Warmed back up in the microwave,
+they were better,
+but not as good as on the first day.
+The original recipe's claim that they would keep for 3&ndash;4 days in a plastic bag
+seems very dubious,
+although perhaps the humidity of a plastic bag
+would preserve them better than the sealed cake tin that we used.
 
 All in all,
 the steps were all relatively easy to follow,
