@@ -4,3 +4,4 @@ _site
 gems/
 .bundle
 *~
+.DS_Store
