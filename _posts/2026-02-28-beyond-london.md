@@ -189,7 +189,8 @@ calling at Brighton and Southampton.
 On the other side of the Channel,
 all services would call at Lille.
 (It may or may not make sense to additionally call at Calais Fréthun;
-but doing so would provide a [handy cross-channel shuttle][minimal].)
+if it did,
+doing so would provide a [handy cross-channel shuttle][minimal].)
 From there,
 one could alternate services between Paris and Brussels,
 or one could split the train at Lille and send one half to each.
@@ -218,7 +219,7 @@ and outline the enabling work needed at each point.
 ### Cardiff
 
 Cardiff Central is a busy eight-platform through station,
-with a grand, grade I listed city-facing entrance to the north
+with a grand, Grade I listed city-facing entrance to the north
 (with a very small car park attached),
 and a smaller entrance to the south connected to larger car parks
 (which will shortly be redeveloped
