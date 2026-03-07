@@ -5,6 +5,8 @@ date:   2026-03-05 20:30:00 +0000
 categories: [silly train ideas]
 ---
 
+![Route schematic showing routes from Swansea/Abertawe (in grey), via Cardiff Central/Caerdydd Canolog, Bristol Parkway, Reading, Redhill; and from Southampton Central via Brighton; through Ashford International and Lille-Europe; then branching to Bruxelles-Midi/Brussel-Zuid and Paris Nord](/images/beyond-london/map.svg)
+
 When the Channel Tunnel was under construction,
 there were plans for "Regional Eurostar" services to run "North of London".
 Rolling stock was even procured for this purpose.
